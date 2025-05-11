@@ -12,14 +12,13 @@ A two-screen Flutter app built for KobiPay's Round 2 technical assessment.
 ## Setup
 
 ```bash
-git clone <repository-url>
+git clone  https://github.com/ayolateef/kobi_pay_assessment.git
 cd kobipay_assessment
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 flutter run
 ```
 
-> **Note:** Add a `netflix_logo.png` (100x100, red "N" on white) to `assets/images/`.
 
 ## Tech Stack
 
